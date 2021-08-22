@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.CrowdBattlePrototype.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\MehmethanSargin\Desktop\myrepo\CrowdBattlePrototype\.idea\.idea.CrowdBattlePrototype\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
